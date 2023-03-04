@@ -1,2 +1,2 @@
 # Pseudo random number generator
- A PSNR that I threw together to use in my assembly projects
+Random number generator using the [Linear congruential generator](https://en.wikipedia.org/wiki/Linear_congruential_generator) algorithm
